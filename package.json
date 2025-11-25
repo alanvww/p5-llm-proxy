@@ -17,8 +17,20 @@
     "google-ai",
     "llm"
   ],
-  "author": "",
+  "author": "alanvww",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+hhttps://github.com/alanvww/p5-llm-proxy.git"
+  },
+  "homepage": "https://github.com/alanvww/p5-llm-proxy/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/alanvww/p5-llm-proxy/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "dependencies": {
     "@ngrok/ngrok": "^1.4.1",
     "chalk": "^4.1.2",
