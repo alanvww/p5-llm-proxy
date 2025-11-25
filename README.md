@@ -166,9 +166,6 @@ The proxy works with all Gemini API models, including:
 |-------|-------------|
 | `gemini-2.5-pro` | Advanced reasoning and thinking |
 | `gemini-2.5-flash` | Fast and efficient |
-| `gemini-2.0-flash` | Production-ready |
-| `gemini-1.5-pro` | Previous generation pro |
-| `gemini-1.5-flash` | Previous generation flash |
 
 ## Supported Endpoints
 
