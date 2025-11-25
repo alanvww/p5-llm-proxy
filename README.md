@@ -51,6 +51,19 @@ To get your free ngrok token:
 Enter your ngrok auth token: █
 ```
 
+After entering your ngrok token, you'll be prompted for your Gemini API key:
+
+```
+🔑 Gemini API key required
+
+To get your free Gemini API key:
+  1. Go to https://aistudio.google.com/apikey
+  2. Click "Create API Key"
+  3. Copy the key
+
+Enter your Gemini API key: █
+```
+
 Once setup is complete, you'll see your public URL:
 
 ```
